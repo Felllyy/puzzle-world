@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local outputs and platform files
+outputs/
+.DS_Store
+.streamlit/secrets.toml
+
+# Editor and test caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
